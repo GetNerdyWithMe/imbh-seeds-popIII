@@ -1,8 +1,8 @@
 """
 Remnant mass prescriptions for Population III stars.
 
-This part defines stellar mass governments relevant to Population III
-evolution and maps each government to an expected compact-object outcome.
+This module defines stellar mass regimes relevant to Population III
+evolution and maps each regime to an expected compact-object outcome.
 The prescriptions reflect commonly adopted boundaries in the literature
 and are intended for numerical analyses rather than detailed stellar
 evolution modeling.
