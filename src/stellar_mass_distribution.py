@@ -1,11 +1,10 @@
 """
 Stellar mass distributions relevant to Population III star formation.
 
-This subsection defines parameterized stellar mass distributions commonly
-adduced in Population III studies, with direct control over mass
-cutoffs and high-mass behavior. The prescriptions are intended for
-numerical evaluation of remnant populations under varying physical
-assumptions.
+This module defines parameterized stellar mass distributions commonly
+invoked in Population III studies, with direct control over mass cutoffs
+and high-mass behavior. The prescriptions are intended for numerical
+evaluation of remnant populations under varying physical assumptions.
 """
 
 import numpy as np
